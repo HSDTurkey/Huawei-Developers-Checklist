@@ -10,7 +10,7 @@ module.exports = {
     title: 'Checklist',
     description: "The protocols we follow for the things we can't automate yet.",
     author: '@atolye15',
-    siteUrl: 'https://checklist.atolye15.com',
+    siteUrl: 'https://huaweideveloperschecklist.herokuapp.com/',
   },
   plugins: [
     {
@@ -23,7 +23,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://checklist.atolye15.com`,
+        siteUrl: `https://huaweideveloperschecklist.herokuapp.com/`,
         stripQueryString: true,
       },
     },
