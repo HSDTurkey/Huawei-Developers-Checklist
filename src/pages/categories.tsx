@@ -20,7 +20,7 @@ const CategoriesPage: FC<Props> = ({ data }) => (
   <Layout>
     <SEO
       title="Categories"
-      description="The list of categories that main focus areas of Atolye15 are included."
+      description="The list of categories that main focus areas of Huawei Developers are included."
     />
     <section className="o-categories-section">
       <h2>Checklist Categories</h2>

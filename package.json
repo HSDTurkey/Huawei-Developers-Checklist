@@ -1,8 +1,8 @@
 {
-  "name": "atolye15-checklist",
+  "name": "huawei-developers-checklist",
   "private": true,
-  "description": "The protocols that have been used by Atölye15 for years.",
-  "version": "0.0.1",
+  "description": "It has been developed for the use of Huawei developer programs.",
+  "version": "1.0.0",
   "resolutions": {
     "babel-loader": "8.0.6"
   },
@@ -106,9 +106,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/atolye15/checklist"
+    "url": "https://github.com/sametzengins/Huawei-Developers-Checklist"
   },
   "bugs": {
-    "url": "https://github.com/atolye15/checklist/issues"
+    "url": "https://github.com/sametzengins/Huawei-Developers-Checklist/issues"
   }
 }

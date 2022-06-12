@@ -12,18 +12,18 @@
 
   display: flex;
   flex-wrap: wrap;
-  margin-right: -($gap / 2);
-  margin-left: -($gap / 2);
+  margin-right: -($gap * 0.5);
+  margin-left: -($gap * 0.5);
 
   //
   // Elements
   // -------------------------
   &__item {
     display: flex;
-    padding-right: $gap / 2;
-    padding-left: $gap / 2;
-    margin-top: $gap / 2;
-    margin-bottom: $gap / 2;
+    padding-right: $gap * 0.5;
+    padding-left: $gap * 0.5;
+    margin-top: $gap * 0.5;
+    margin-bottom: $gap * 0.5;
     white-space: nowrap;
   }
 }

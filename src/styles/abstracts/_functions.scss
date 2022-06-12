@@ -1,3 +1,5 @@
+@use "sass:math";
+
 @function gap($size: normal) {
   @return map-get($g-gaps, $size);
 }
@@ -14,7 +16,7 @@
 
 @function strip-unit($number) {
   @if type-of($number) == 'number' and not unitless($number) {
-    @return $number / ($number * 0 + 1);
+    @return math.div($number, $number * 0 + 1);
   }
 
   @return $number;
@@ -42,7 +44,7 @@
   // This is because 100% font size = 16px in most all browsers
   @if unit($base-value) == '%' {
     // stylelint-disable-next-line meowtec/no-px
-    $base-value: ($base-value / 100%) * 16px;
+    $base-value: math.div($base-value, 100%) * 16px;
   }
 
   // Using rem as base allows correct scaling
@@ -51,7 +53,7 @@
     $base-value: strip-unit($base-value) * 16px;
   }
 
-  $value: strip-unit($value) / strip-unit($base-value) * 1rem;
+  $value: math.div(strip-unit($value), strip-unit($base-value)) * 1rem;
 
   // Turn 0rem into 0
   @if (strip-unit($value) == 0) {
@@ -83,7 +85,7 @@
   // This is because 100% font size = 16px in most all browsers
   @if unit($base-value) == '%' {
     // stylelint-disable-next-line meowtec/no-px
-    $base-value: ($base-value / 100%) * 16px;
+    $base-value: math.div($base-value, 100%) * 16px;
   }
 
   // Using rem as base allows correct scaling
@@ -111,7 +113,7 @@
   @if ($unit == rem) {
     $base-value: rem-to-px($base-value);
   }
-  @return ($value / $base-value) * 1em;
+  @return math.div($value, $base-value) * 1em;
 }
 
 //

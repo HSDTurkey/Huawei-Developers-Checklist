@@ -36,7 +36,7 @@ You need to update category declarations if you decide to use another category s
 - [ ] Update the footer  
 Of course you have your own social media and links. Don't hesitate to replace them
 
-- [ ] Make sure you didn't remove the Atolye15 logo
+- [ ] Make sure you didn't remove the Huawei Developers logo
 
 - [ ] Make sure you didn't remove the Algolia logo
 

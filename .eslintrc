@@ -1,5 +1,5 @@
 {
-  "extends": ["@atolye15/eslint-config"],
+  "extends": ["@huaweidev/eslint-config"],
   "rules": {
     "@typescript-eslint/no-unused-vars": ["error", { "argsIgnorePattern": "^_" }],
     "import/extensions": [

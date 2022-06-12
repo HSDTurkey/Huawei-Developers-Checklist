@@ -6,6 +6,8 @@
 // Transition
 // -------------------------
 
+@use "sass:math";
+
 $g-transition-duration: 0.25s !default;
 
 //
@@ -32,27 +34,27 @@ $g-line-height-base: 1.5 !default;
 $g-text-styles: (
   'hero': (
     font-size: px-to-rem(64px),
-    line-height: 72/64,
+    line-height: math.div(72, 64),
   ),
   'large-title': (
     font-size: px-to-rem(48px),
-    line-height: 64/48,
+    line-height: math.div(64, 48),
   ),
   'title': (
     font-size: px-to-rem(32px),
-    line-height: 48/32,
+    line-height: math.div(48, 32),
   ),
   'small-title': (
     font-size: px-to-rem(24px),
-    line-height: 32/24,
+    line-height: math.div(32, 24),
   ),
   'subtitle': (
     font-size: px-to-rem(20px),
-    line-height: 28/20,
+    line-height: 28*0.05,
   ),
   'large-body': (
     font-size: px-to-rem(18px),
-    line-height: 26/18,
+    line-height: math.div(26, 18),
   ),
   'body': (
     font-size: $g-font-size-base,
@@ -60,11 +62,11 @@ $g-text-styles: (
   ),
   'small': (
     font-size: px-to-rem(14px),
-    line-height: 18/14,
+    line-height: math.div(18, 14),
   ),
   'tiny': (
     font-size: px-to-rem(12px),
-    line-height: 16/12,
+    line-height: math.div(16, 12),
   ),
 );
 
@@ -119,19 +121,19 @@ $g-base-gap: 1.5rem !default;
 $g-gaps: (
   normal: $g-base-gap,
   small: (
-    $g-base-gap / 1.5,
+    math.div($g-base-gap, 1.5),
   ),
   xsmall: (
-    $g-base-gap / 3,
+    math.div($g-base-gap, 3),
   ),
   2xsmall: (
-    $g-base-gap / 6,
+    math.div($g-base-gap, 6),
   ),
   medium: (
-    $g-base-gap * (4 / 3),
+    $g-base-gap * math.div(4, 3),
   ),
   large: (
-    $g-base-gap * (5 / 3),
+    $g-base-gap * math.div(5, 3),
   ),
   xlarge: (
     $g-base-gap * 2,
@@ -151,10 +153,10 @@ $g-pads: (
     $g-base-padding * 0.75,
   ),
   xsmall: (
-    $g-base-padding / 2,
+    $g-base-padding * 0.5,
   ),
   2xsmall: (
-    $g-base-padding / 4,
+    $g-base-padding * 0.25,
   ),
   medium: (
     $g-base-padding * 1.25,

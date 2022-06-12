@@ -1,29 +1,29 @@
 newPRWelcomeComment: |
   Hi there 👋
 
-  Welcome on board! I'm the humble servant of Atolye15 🤖
+  Welcome on board! I'm the humble servant of Huawei Developers 🤖
 
   Thank you for your contribution! 👊
 
   Here is my checklist. _Yep, I also have a checklist._
 
   - [X] ~Say thanks to the contributor of Checklist.~
-  - [X] ~Notify Atolye15 crew.~
-  - [X] ~Display Atolye15 crew's PR reviewing checklist.~
+  - [X] ~Notify Huawei Developers crew.~
+  - [X] ~Display Huawei Developers crew's PR reviewing checklist.~
 
-  If you're curious about Atolye15 crew's PR reviewing checklist here it is:
+  If you're curious about Huawei Developers crew's PR reviewing checklist here it is:
   - [ ] Check if PR is compatible with our [CoC](https://www.github.com/atolye15/checklist/blob/master/CODE_OF_CONDUCT.md)
   - [ ] If PR is irrelevant, assign it to the related person.
-  - [ ] Review PR carefully to check if it fits Atolye15's standards. 🧐
+  - [ ] Review PR carefully to check if it fits Huawei Developers's standards. 🧐
   - [ ] Approve or Request Change.
 
-  My service here is done for now. I'll do my best to have the Atolye15 crew accept your PR. 🤞
+  My service here is done for now. I'll do my best to have the Huawei Developers crew accept your PR. 🤞
 
   Ciao ✌️
 
 firstPRMergeComment: |
   Hi 👋
-  It's me again, the humble servant of Atolye15 🤖
+  It's me again, the humble servant of Huawei Developers 🤖
 
   I have good news for you. Your PR has been merged 🥳
 
@@ -32,6 +32,6 @@ firstPRMergeComment: |
   - [ ] Publish artifacts to Netlify CDN. 
   - [ ] Go live! 🎉
 
-  Now you're the part of Atolye15 Checklist community.
+  Now you're the part of Huawei Developers Checklist community.
 
   Thank you! 🤘

@@ -8,8 +8,8 @@ const queries = require('./src/utils/algolia');
 module.exports = {
   siteMetadata: {
     title: 'Checklist',
-    description: "The protocols we follow for the things we can't automate yet.",
-    author: '@atolye15',
+    description: "It has been developed for the use of Huawei developer programs.",
+    author: '@huaweidev',
     siteUrl: 'https://huaweideveloperschecklist.herokuapp.com/',
   },
   plugins: [
@@ -43,7 +43,7 @@ module.exports = {
         short_name: 'Checklist',
         start_url: '/',
         background_color: '#101013',
-        theme_color: '#ff0c6f',
+        theme_color: '#c3172d',
         display: 'minimal-ui',
         icon: 'src/images/icon.png',
       },

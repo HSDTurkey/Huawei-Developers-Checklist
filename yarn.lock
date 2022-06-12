@@ -106,18 +106,18 @@
     "@algolia/logger-common" "4.1.0"
     "@algolia/requester-common" "4.1.0"
 
-"@atolye15/eslint-config-base-typescript@^1.1.1":
+"@huaweidev/eslint-config-base-typescript@^1.1.1":
   version "1.1.1"
-  resolved "https://registry.npmjs.org/@atolye15/eslint-config-base-typescript/-/eslint-config-base-typescript-1.1.1.tgz"
+  resolved "https://registry.npmjs.org/@huaweidev/eslint-config-base-typescript/-/eslint-config-base-typescript-1.1.1.tgz"
   integrity sha512-2v2SOZBu3ZPC7uNKwAf3bmW1gn5WY2CK4DdYejGVRtdghakjrlhIxevuCwRcgol3G6q/aPrn2FueSe0r9LS03A==
   dependencies:
-    "@atolye15/eslint-config-base" "^1.1.0"
+    "@huaweidev/eslint-config-base" "^1.1.0"
     "@typescript-eslint/eslint-plugin" "^2.8.0"
     "@typescript-eslint/parser" "^2.8.0"
 
-"@atolye15/eslint-config-base@^1.1.0":
+"@huaweidev/eslint-config-base@^1.1.0":
   version "1.1.0"
-  resolved "https://registry.npmjs.org/@atolye15/eslint-config-base/-/eslint-config-base-1.1.0.tgz"
+  resolved "https://registry.npmjs.org/@huaweidev/eslint-config-base/-/eslint-config-base-1.1.0.tgz"
   integrity sha512-9Mw6gKWEfIx180aEYeb45PCmEnFF07+QmrOHaLIVWTIYDdqjNd5YhQrTWKmuIqGj168tqE5Gpx7L9RYCJxf/Aw==
   dependencies:
     eslint-config-airbnb-base "^14.0.0"
@@ -127,19 +127,19 @@
     eslint-plugin-jest "^23.0.4"
     eslint-plugin-prettier "^3.1.0"
 
-"@atolye15/eslint-config@^1.1.1":
+"@huaweidev/eslint-config@^1.1.1":
   version "1.1.1"
-  resolved "https://registry.npmjs.org/@atolye15/eslint-config/-/eslint-config-1.1.1.tgz"
+  resolved "https://registry.npmjs.org/@huaweidev/eslint-config/-/eslint-config-1.1.1.tgz"
   integrity sha512-ggYNVCHLFoSvw7COgrt08I3y+z1sU1ZEq7iy4qHCLsDsMPasuZuqV6njn+KriqR5EUBEqoG/z9DNeewt8gVXow==
   dependencies:
-    "@atolye15/eslint-config-base-typescript" "^1.1.1"
+    "@huaweidev/eslint-config-base-typescript" "^1.1.1"
     eslint-config-airbnb "^18.0.1"
     eslint-plugin-jsx-a11y "^6.2.3"
     eslint-plugin-react "^7.12.4"
 
-"@atolye15/stylelint-config@^1.3.0":
+"@huaweidev/stylelint-config@^1.3.0":
   version "1.3.0"
-  resolved "https://registry.npmjs.org/@atolye15/stylelint-config/-/stylelint-config-1.3.0.tgz"
+  resolved "https://registry.npmjs.org/@huaweidev/stylelint-config/-/stylelint-config-1.3.0.tgz"
   integrity sha512-PlIrYWRXj9t32WglyeBPfH4kLihChe1FRMgw8/5w2pMUdKk7aZ6cZarT9EnebjiWs03gsUvzgOCOqgFc6dhtDA==
   dependencies:
     stylelint-declaration-block-no-ignored-properties "^2.1.0"

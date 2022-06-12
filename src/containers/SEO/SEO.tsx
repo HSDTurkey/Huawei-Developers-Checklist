@@ -12,7 +12,7 @@ interface Props {
 
 const defaultTitle = 'Checklist';
 const defaultDescription =
-  'Checklist contains the protocols followed by Atolye15 for software development, design, project management and administrative affairs.';
+  'Checklist contains the protocols followed by Huawei Developers for software development, design, project management and administrative affairs.';
 const defaultImage = ogImage;
 const defaultType = 'website';
 const siteUrl = process.env.GATSBY_PROJECT_LINK;
@@ -38,7 +38,7 @@ const SEO: FC<Props> = ({ title, description, type, image }) => {
         <meta property="og:description" content={seo.description} />
 
         <meta name="twitter:image" content={seo.image} />
-        <meta name="twitter:site" content="@atolye15" />
+        <meta name="twitter:site" content="@huaweidev" />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content={seo.title} />
         <meta name="twitter:description" content={seo.description} />
