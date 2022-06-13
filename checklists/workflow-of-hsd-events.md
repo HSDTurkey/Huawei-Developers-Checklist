@@ -96,11 +96,11 @@ Etkinlikten önce uygulama özelliklerine hakim olduğunuzdan emin olunuz. Mikro
 Katılımcılarınıza etkinlik akışı ile ilgili değişiklikleri anında iletişim kanallarınızdan haber vermelisiniz.
 
 
-- [ ] Etkinlik kaydını almayı unut  
+- [ ] Etkinlik kaydını almayı unutma  
 Herhangi bir teknik aksaklık olması durumuna karşın birden fazla kişi olarak kayıt almalısınız. Etkinliği YouTube üzerinden yapıyorsanız etkinlik bitiminden sonra yayını yayınlamayı unutmayın.
 
 
-- [ ] Moderatör kendisini tanıtsın  
+- [ ] Moderatör kendisini tanıt  
 Moderatör etkinlik esnasında konuşmaya kendini tanıtarak başlasın. Hemen sonrasında etkinlik akışı ile ilgili bilgi paylaşımı yapabilirsiniz.
 
 
@@ -108,13 +108,13 @@ Moderatör etkinlik esnasında konuşmaya kendini tanıtarak başlasın. Hemen s
 [Buradaki]() sunumdan yararlanabilirsiniz.
 
 
-- [ ] Konuşmacıları tanıt  
+- [ ] Konuşmacı/ları tanıt  
 
-- [ ] Konuşmacı sunumu yaparken çekiliş kısmı için hazırlık yapın  
+- [ ] Konuşmacı sunumu yaparken çekiliş kısmı için hazırlık yap  
 
 
-- [ ] Konuşmacıya teşekkür edin  
-Konuşmacının bir şey eklemek isteyip istemediğini sorduktan sonra soru-cevap kısmına geçin
+- [ ] Konuşmacıya teşekkür et  
+Konuşmacının bir şey eklemek isteyip istemediğini sorduktan sonra soru-cevap kısmına geçin.
 
 
 - [ ] Etkinliği düzenlediğiniz platforma bağlı olarak sesli veya yazılı soruları kontrol et  
@@ -124,20 +124,20 @@ Konuşmacının bir şey eklemek isteyip istemediğini sorduktan sonra soru-ceva
 HSD'nin genel grubuna katılmak için katılımcılara [bu]() qr kodu gösterebilirsiniz. 
 
 
-- [ ] Çekilişe geçin  
-İsim listesinden gerçekleştirecekseniz [buradan](https://www.wheelofnames.com), Instagram üzerinden gerçekleştirecekseniz [buradan](https://www.simpliers.com) çekiliş yap.
+- [ ] Çekilişe geç  
+Formdan gerçekleştireceksen [buradan](https://www.wheelofnames.com), Instagram üzerinden gerçekleştireceksen [buradan](https://www.simpliers.com) çekiliş yap.
 
 
-- [ ] Çekilişi gerçekleştirin  
-Çekilişi kazanan kişilerden İsim, Soyisim, Telefon numarası, mail adresleri, ev adreslerini size ulaştırmaları gerektiğini belirtin. 24 saatte iletişime geçmeyen kazananların hakkının yedek kişilere geçeceğini katılımcılara bildirin.
+- [ ] Çekilişi gerçekleştir  
+Çekilişi kazanan kişilerden İsim, Soyisim, Telefon numarası, mail adresleri, ev adreslerini size ulaştırmaları gerektiğini belirt. 24 saatte iletişime geçmeyen kazananların hakkının yedek kişilere geçeceğini katılımcılara bildir.
 
 
-- [ ] Huawei'in önemli tarihlerde launchladığı event ve productları tanıt  
-Huawei tarafından düzenlenen yarışma, platform ve herhangi bir etkinliğin, etkinliğinizin sonunda tanıtımını yapın.
+- [ ] Huawei'in önemli tarihlerde gerçekleştirdiği etkinlik ve yarışmaları tanıt  
+Huawei tarafından düzenlenen yarışma, platform ve herhangi bir etkinliğin, etkinliğinizin sonunda tanıtımını yap.
 
 
-- [ ] Etkinliği sonlandırın  
+- [ ] Etkinliği sonlandır  
 Katılımcılarınızla gelecek etkinlikler için iletişim kanallarınızı paylaşın.
 
 
-- [ ] Çekiliş hediyeleri ulaşanlardan HSD Turkey'i etiketleyerek paylaşım yapmalarını isteyin  
+- [ ] Çekiliş hediyeleri ulaşanlardan HSD Turkey'i etiketleyerek paylaşım yapmalarını iste  
