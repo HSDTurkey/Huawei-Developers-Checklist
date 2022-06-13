@@ -3,7 +3,7 @@ title: Workflow of HSD Events
 category: "HSD"
 date: "2022-06-10"
 tags: ['hsd', 'event']
-description: HSD kulübün için etkinlik mi düzenleyeceksin. Senin için harika bir checklist hazırladık🤘 Hadi başlayalım🚀
+description: HSD kulübün için etkinlik mi düzenleyeceksin? Senin için harika bir checklist hazırladık🤘 Hadi başlayalım🚀
 featured: true
 ---
 
