@@ -12,7 +12,7 @@ newPRWelcomeComment: |
   - [X] ~Display Huawei Developers crew's PR reviewing checklist.~
 
   If you're curious about Huawei Developers crew's PR reviewing checklist here it is:
-  - [ ] Check if PR is compatible with our [CoC](https://www.github.com/atolye15/checklist/blob/master/CODE_OF_CONDUCT.md)
+  - [ ] Check if PR is compatible with our [CoC](https://www.github.com/sametzengins/Huawei-Developers-Checklist/blob/main/CODE_OF_CONDUCT.md)
   - [ ] If PR is irrelevant, assign it to the related person.
   - [ ] Review PR carefully to check if it fits Huawei Developers's standards. 🧐
   - [ ] Approve or Request Change.
@@ -28,8 +28,8 @@ firstPRMergeComment: |
   I have good news for you. Your PR has been merged 🥳
 
   Here is what will follow next;
-  - [ ] Build Gatsby on Netlify. 
-  - [ ] Publish artifacts to Netlify CDN. 
+  - [ ] Build Gatsby on Heroku. 
+  - [ ] Publish artifacts to Heroku Cloud. 
   - [ ] Go live! 🎉
 
   Now you're the part of Huawei Developers Checklist community.

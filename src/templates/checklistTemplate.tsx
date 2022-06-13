@@ -113,7 +113,7 @@ const ChecklistTemplate: FC<Props> = ({ data, pageContext }) => {
             <div className="col u-width-auto@md-up u-margin-top-small@sm-down">
               <ButtonAsAnchor
                 theme="secondary"
-                href={`${process.env.GATSBY_GITHUB_LINK}/edit/master/${fields.filePath}`}
+                href={`${process.env.GATSBY_GITHUB_LINK}/edit/main/${fields.filePath}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="u-width-100%@sm-down"
