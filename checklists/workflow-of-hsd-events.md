@@ -12,7 +12,7 @@ Konu belirlemekte zorlanıyorsanız [buradan]() konu seçebilir ya da üyelerini
 
 
 - [ ] Tarih-saat belirle  
-KonuşmacıYA uygun ve kitlenizin katılımının en fazla olacağı tarih-saati seçmeye özen gösterin. [Buradaki]() linkten etkinlik takvimine göz atabilirsiniz.
+Konuşmacıya uygun ve kitlenizin katılımının en fazla olacağı tarih-saati seçmeye özen gösterin. [Buradaki]() linkten etkinlik takvimine göz atabilirsiniz.
 
 
 - [ ] Konuşmacıyı belirle  
@@ -20,10 +20,11 @@ Huawei'den bir konuşmacı talebiniz olacaksa minimum 3 hafta öncesinden bizler
 
 
 - [ ] Çekiliş yapılacaksa İrem Bayrak ile iletişime geç  
-Çekiliş de verilecek ürünler etkinliğinize katılacak kişi sayısı öngörünüzle göre belirlenecektir. Bundan dolayı ortalama katılım sayısı üzerine bir tahmin belirleterek çekiliş talebinde bulunmanız gerekmektedir. Telegram üzerinden iletişime geçebilirsiniz.
+Çekilişde verilecek ürünler etkinliğinize katılacak kişi sayısı öngörünüzle göre belirlenecektir. Bundan dolayı ortalama katılım sayısı üzerine bir tahmin belirleterek çekiliş talebinde bulunmanız gerekmektedir. Telegram üzerinden iletişime geçebilirsiniz.
 
 
-- [ ] Konuşmacıdan ünvan ve formal Bu linkteki örnek fotoğrafları inceleyerek benzer çözünürlük ve kalitede olmasına özen gösterin. Sosyal medya platformlarının minimum çözünürlüğünden daha büyük olmasına dikkat edin.
+- [ ] Konuşmacıdan ünvan ve formal bir fotoğraf al  
+Bu linkteki örnek fotoğrafları inceleyerek benzer çözünürlük ve kalitede olmasına özen gösterin. Sosyal medya platformlarının minimum çözünürlüğünden daha büyük olmasına dikkat edin.
 
 
 - [ ] Etkinliğin yapılacağı online platformu belirle  
@@ -31,7 +32,7 @@ Streamyard(YouTube), Zoom, Teams gibi platformları tercih edebilirsiniz. Zoom l
 
 
 - [ ] Online platform için link oluştur  
-[Bu](https://cutt.ly) linkten oluşturduğunuz platform linkini kısaltabilirsiniz. Katılımcılarınızın kolayca erişebileceği hale getirin.
+[Bu](https://cutt.ly) linkten oluşturduğunuz platform linkini kısaltın. Katılımcılarınızın kolayca erişebileceği hale getirin.
 
 
 - [ ] 1080x1080 poster hazırla  
@@ -43,17 +44,17 @@ Formatınız LinkedIn ve Meetup için uygun olmalıdır.
 
 
 - [ ] Çekiliş postunu hazırla  
-Kendi tasarımlarınızı veya [buradan]() tasarım şablonlarını inceleyebilirsiniz. Afişlerin altına "Huawei ürün değişikliği yapma hakkını saklı tutar ve ürünlerin ulaşım süresi minimum 30 iş günüdür." yazısını eklemeyi unutmayın.
+Kendi tasarımlarınızı oluşturabilir veya [buradan]() tasarım şablonlarını inceleyebilirsiniz. Afişlerin altına "Huawei ürün değişikliği yapma hakkını saklı tutar ve ürünlerin ulaşım süresi minimum 30 iş günüdür." yazısını eklemeyi unutmayın.
 
 
 - [ ] Paylaşmadan önce İrem Bayrak'dan post onayını al  
 Telegramdan ulaşabilirsiniz.
 
 
-- [ ] Onay geldikten sonra LinkedIn tasarımını, etkinlik açıklaması ile birlikte İrem Bayrak'a iletin  
+- [ ] Onay geldikten sonra LinkedIn tasarımını, etkinlik açıklaması ile birlikte İrem Bayrak'a ilet  
 [irem.bayrak@huawei.com](mailto:irem.bayrak@huawei.com) adresinden iletebilirsiniz.
 
-- [ ] Onay geldikten sonra postlarınızı @hsdturkey hesabını etiketleyerek paylaş  
+- [ ] Onay geldikten sonra postlar @hsdturkey hesabını etiketleyerek paylaş  
 Postları etkinliğe minimum [1.5] hafta kala paylaşmanız gerekmektedir. Unutmayın, geç ve az yapılan tanıtımlar, etkinlik istatistiklerinizi negatif olarak etkiler.
 
 
