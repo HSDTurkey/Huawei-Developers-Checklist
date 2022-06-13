@@ -20,7 +20,7 @@ Huawei'den bir konuşmacı talebiniz olacaksa minimum 3 hafta öncesinden bizler
 
 
 - [ ] Çekiliş yapılacaksa İrem Bayrak ile iletişime geç  
-Çekilişde verilecek ürünler etkinliğinize katılacak kişi sayısı öngörünüzle göre belirlenecektir. Bundan dolayı ortalama katılım sayısı üzerine bir tahmin belirleterek çekiliş talebinde bulunmanız gerekmektedir. Telegram üzerinden iletişime geçebilirsiniz.
+Çekilişte verilecek ürünler etkinliğinize katılacak kişi sayısı öngörünüzle göre belirlenecektir. Bundan dolayı ortalama katılım sayısı üzerine bir tahmin belirleterek çekiliş talebinde bulunmanız gerekmektedir. Telegram üzerinden iletişime geçebilirsiniz.
 
 
 - [ ] Konuşmacıdan ünvan ve formal bir fotoğraf al  
