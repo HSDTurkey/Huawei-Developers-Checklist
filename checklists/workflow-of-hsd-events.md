@@ -44,7 +44,7 @@ Formatınız LinkedIn ve Meetup için uygun olmalıdır.
 
 
 - [ ] Çekiliş postunu hazırla  
-Kendi tasarımlarınızı oluşturabilir veya [buradan]() tasarım şablonlarını inceleyebilirsiniz. Afişlerin altına "Huawei ürün değişikliği yapma hakkını saklı tutar ve ürünlerin ulaşım süresi minimum 30 iş günüdür." yazısını eklemeyi unutmayın.
+Kendi tasarımlarınızı oluşturabilir veya [buradan](https://trello.com/1/cards/626674715ec07d7bb2c4840a/attachments/626674de54b088424a370773/download/canva-design-links.pdf) tasarım şablonlarını inceleyebilirsiniz. Afişlerin altına "Huawei ürün değişikliği yapma hakkını saklı tutar ve ürünlerin ulaşım süresi minimum 30 iş günüdür." yazısını eklemeyi unutmayın.
 
 
 - [ ] Paylaşmadan önce İrem Bayrak'dan post onayını al  
