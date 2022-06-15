@@ -8,7 +8,7 @@ For code contributing instructions please refer to [README.md](https://github.co
 
 ## Checklist Contribution
 
-All checklists on [Checklist](https://checklist.atolye15.com) is populating by the Markdown files that in [checklists](https://github.com/sametzengins/Huawei-Developers-Checklist/blob/master/checklists) directory on this repository. If you want to add a new checklist you need to create a new markdown file on the directory, or if you want to update an existing one, you can edit the corresponding file and create a PR.
+All checklists on [Checklist](https://huaweideveloperschecklist.herokuapp.com/) is populating by the Markdown files that in [checklists](https://github.com/sametzengins/Huawei-Developers-Checklist/blob/master/checklists) directory on this repository. If you want to add a new checklist you need to create a new markdown file on the directory, or if you want to update an existing one, you can edit the corresponding file and create a PR.
 
 Since we use Markdown files for checklists, you can read Markdown notation from [here](https://www.markdownguide.org/) in case you're not familiar with it. We also use [Front Matter](https://jekyllrb.com/docs/front-matter/) to provide some meta data to checklists. Here are the required Front Matter data for a valid Checklist.
 

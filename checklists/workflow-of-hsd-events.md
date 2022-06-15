@@ -105,7 +105,7 @@ Moderatör etkinlik esnasında konuşmaya kendini tanıtarak başlasın. Hemen s
 
 
 - [ ] HSD programını tanıt  
-[Buradaki]() sunumdan yararlanabilirsiniz.
+[Buradaki](https://www.canva.com/design/DAE3xQAnVEg/ubLEu2HTBzdl-uLhBK2nmA/view?utm_content=DAE3xQAnVEg&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent) sunumdan yararlanabilirsiniz.
 
 
 - [ ] Konuşmacı/ları tanıt  
