@@ -4,11 +4,11 @@ Want to contribute to the Checklist? There are some steps you need to follow.
 
 ## Code Contribution
 
-For code contributing instructions please refer to [README.md](https://github.com/sametzengins/Huawei-Developers-Checklist/blob/master/README.md)
+For code contributing instructions please refer to [README.md](https://github.com/HSDTurkey/Huawei-Developers-Checklist/blob/main/README.md)
 
 ## Checklist Contribution
 
-All checklists on [Checklist](https://huaweideveloperschecklist.herokuapp.com/) is populating by the Markdown files that in [checklists](https://github.com/sametzengins/Huawei-Developers-Checklist/blob/master/checklists) directory on this repository. If you want to add a new checklist you need to create a new markdown file on the directory, or if you want to update an existing one, you can edit the corresponding file and create a PR.
+All checklists on [Checklist](https://huaweideveloperschecklist.herokuapp.com/) is populating by the Markdown files that in [checklists](https://github.com/HSDTurkey/Huawei-Developers-Checklist/blob/main/checklists) directory on this repository. If you want to add a new checklist you need to create a new markdown file on the directory, or if you want to update an existing one, you can edit the corresponding file and create a PR.
 
 Since we use Markdown files for checklists, you can read Markdown notation from [here](https://www.markdownguide.org/) in case you're not familiar with it. We also use [Front Matter](https://jekyllrb.com/docs/front-matter/) to provide some meta data to checklists. Here are the required Front Matter data for a valid Checklist.
 
@@ -20,7 +20,7 @@ Since we use Markdown files for checklists, you can read Markdown notation from 
 | description | A brief description about checklist. It will be used on checklist lists. | Can be anything                                                   | The protocol we follow when we report a bug. This checklist is vital for assignee to understand the problem and reproduce it. |
 | date        | Publication date. Most probably current day.                             | Format: YYYY-MM-DD                                                | 2020-02-14                                                                                                                    |
 
-Here is the full list of pre-defined category list. It is not allowed to use any other, you should pick one of them. But, if you have a new brand category suggesstion, you should [create an issue](https://github.com/sametzengins/Huawei-Developers-Checklist/issues/new) for that.
+Here is the full list of pre-defined category list. It is not allowed to use any other, you should pick one of them. But, if you have a new brand category suggesstion, you should [create an issue](https://github.com/HSDTurkey/Huawei-Developers-Checklist/issues/new) for that.
 
 | Title              | Description                                                                                                                                         |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -65,7 +65,7 @@ You need to provide expected behaviour when you follow the steps to reproduce.
 
 ```
 
-You can use the template via this [link](https://git.io/Jv6Wv)
+You can use the template via this [link](https://bit.ly/hdchecklisti)
 
 ## Contribution Channels
 
@@ -80,8 +80,8 @@ There are two ways for you to contribute.
 
 ## From GitHub
 
-- [ ] Navigate to [checklists](https://github.com/sametzengins/Huawei-Developers-Checklist/blob/master/checklists) directory
-- [ ] Create a new md file via [Create New File](https://github.com/sametzengins/Huawei-Developers-Checklist/new/master/checklists) button or for editing an existing file, click the md file you wish to edit and click the pencil icon on the page.
+- [ ] Navigate to [checklists](https://github.com/HSDTurkey/Huawei-Developers-Checklist/blob/main/checklists) directory
+- [ ] Create a new md file via [Create New File](https://github.com/HSDTurkey/Huawei-Developers-Checklist/new/main/checklists) button or for editing an existing file, click the md file you wish to edit and click the pencil icon on the page.
 - [ ] Create or update the content
 - [ ] If you create a new file, you should give a file name which has to be lowercased without whitespaces and ends with **.md**
 - [ ] Checklist title should be in the title case format.
@@ -93,7 +93,7 @@ That's it! Hope to see your contribution 👊
 
 ### Language  
 
-We prefer using a friendly language over formal language. We avoid any kind of discrimination and expect everyone to abide by. Please refer to our [Code of Conduct](https://github.com/sametzengins/Huawei-Developers-Checklist/blob/master/CODE_OF_CONDUCT.md) for more information and positive & negative behavior examples.  
+We prefer using a friendly language over formal language. We avoid any kind of discrimination and expect everyone to abide by. Please refer to our [Code of Conduct](https://github.com/HSDTurkey/Huawei-Developers-Checklist/blob/main/CODE_OF_CONDUCT.md) for more information and positive & negative behavior examples.  
 
 Every to-do on a given checklist may have a description, you should only add a description when;
 

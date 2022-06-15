@@ -12,7 +12,7 @@ newPRWelcomeComment: |
   - [X] ~Display Huawei Developers crew's PR reviewing checklist.~
 
   If you're curious about Huawei Developers crew's PR reviewing checklist here it is:
-  - [ ] Check if PR is compatible with our [CoC](https://github.com/HSDTurkey/Huawei-Developers-Checklist/blob/master/CODE_OF_CONDUCT.md)
+  - [ ] Check if PR is compatible with our [CoC](https://github.com/HSDTurkey/Huawei-Developers-Checklist/blob/main/CODE_OF_CONDUCT.md)
   - [ ] If PR is irrelevant, assign it to the related person.
   - [ ] Review PR carefully to check if it fits Huawei Developers's standards. 🧐
   - [ ] Approve or Request Change.

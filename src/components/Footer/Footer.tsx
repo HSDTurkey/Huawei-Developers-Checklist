@@ -96,7 +96,7 @@ const Footer: FC<Props> = ({ className }) => (
               </li>
               <li className="u-margin-top-2xsmall">
                 <LinkSecondaryAsAnchor
-                  href={`${process.env.GATSBY_GITHUB_LINK}/blob/master/CODE_OF_CONDUCT.md`}
+                  href={`${process.env.GATSBY_GITHUB_LINK}/blob/main/CODE_OF_CONDUCT.md`}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -105,7 +105,7 @@ const Footer: FC<Props> = ({ className }) => (
               </li>
               <li className="u-margin-top-2xsmall">
                 <LinkSecondaryAsAnchor
-                  href={`${process.env.GATSBY_GITHUB_LINK}/blob/master/CONTRIBUTING.md`}
+                  href={`${process.env.GATSBY_GITHUB_LINK}/blob/main/CONTRIBUTING.md`}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
