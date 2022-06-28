@@ -8,11 +8,11 @@ featured: true
 ---
 
 - [ ] Konuyu belirle  
-Konu belirlemekte zorlanıyorsanız [buradan]() konu seçebilir ya da üyelerinizden gelen feedbacklere göre belirleyebilirsiniz. HSD Turkey sosyal medya adreslerinden geçmiş etkinliklere bakarak ilham alabilirsiniz.
+Konu belirlemekte zorlanıyorsanız [buradan](https://trello.com/c/9uMXAGWt/20-hsd-dok%C3%BCmanlar%C4%B1) konu seçebilir ya da üyelerinizden gelen feedbacklere göre belirleyebilirsiniz. HSD Turkey sosyal medya adreslerinden geçmiş etkinliklere bakarak ilham alabilirsiniz.
 
 
 - [ ] Tarih-saat belirle  
-Konuşmacıya uygun ve kitlenizin katılımının en fazla olacağı tarih-saati seçmeye özen gösterin. [Buradaki]() linkten etkinlik takvimine göz atabilirsiniz.
+Konuşmacıya uygun ve kitlenizin katılımının en fazla olacağı tarih-saati seçmeye özen gösterin. [Buradaki](https://cutt.ly/hsd-internal-event-calendar) linkten etkinlik takvimine göz atabilirsiniz.
 
 
 - [ ] Konuşmacıyı belirle  
@@ -100,7 +100,7 @@ Katılımcılarınıza etkinlik akışı ile ilgili değişiklikleri anında ile
 Herhangi bir teknik aksaklık olması durumuna karşın birden fazla kişi olarak kayıt almalısınız. Etkinliği YouTube üzerinden yapıyorsanız etkinlik bitiminden sonra yayını yayınlamayı unutmayın.
 
 
-- [ ] Moderatör kendisini tanıt  
+- [ ] Moderatör kendisini tanıtsın  
 Moderatör etkinlik esnasında konuşmaya kendini tanıtarak başlasın. Hemen sonrasında etkinlik akışı ile ilgili bilgi paylaşımı yapabilirsiniz.
 
 
@@ -121,7 +121,7 @@ Konuşmacının bir şey eklemek isteyip istemediğini sorduktan sonra soru-ceva
 
 
 - [ ] Etkinlik sonunda HSD ve HDG sosyal medya adresleri ve formlarını tanıt  
-HSD'nin genel grubuna katılmak için katılımcılara [bu]() qr kodu gösterebilirsiniz. 
+HSD'nin genel grubuna katılmak için katılımcılara [bu](https://developer.huawei.com/consumer/en/programs/hsd) qr kodu gösterebilirsiniz. 
 
 
 - [ ] Çekilişe geç  
