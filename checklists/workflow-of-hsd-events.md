@@ -121,7 +121,7 @@ Konuşmacının bir şey eklemek isteyip istemediğini sorduktan sonra soru-ceva
 
 
 - [ ] Etkinlik sonunda HSD ve HDG sosyal medya adresleri ve formlarını tanıt  
-HSD'nin genel grubuna katılmak için katılımcılara [bu](https://developer.huawei.com/consumer/en/programs/hsd) qr kodu gösterebilirsiniz. 
+HSD'nin genel grubuna katılmak için katılımcılara [bu](https://trello.com/1/cards/615d7fbed651624a642b2a7d/attachments/62bb0b223b9d860facc79fb0/previews/62bb0b233b9d860facc79fe1/download/qr-code_(1).png) qr kodu gösterebilirsiniz. 
 
 
 - [ ] Çekilişe geç  
