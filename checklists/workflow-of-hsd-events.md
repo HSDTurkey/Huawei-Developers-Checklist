@@ -62,7 +62,7 @@ Postları etkinliğe minimum [1.5] hafta kala paylaşmanız gerekmektedir. Unutm
 
 
 - [ ] Etkinlik akışını belirle  
-[Buradaki](https://trello.com/1/cards/62a99a55d5fa240651d3fcd4/attachments/62a99f01e8827840f71a8bb6/download/Huawei_Conference_Schedule_Example.pdf) örnek akıştan yararlanabilirsin.
+[Buradaki](https://trello.com/1/cards/626674715ec07d7bb2c4840a/attachments/62bc09cf88e05578cd8400ec/download/Huawei_Conference_Schedule_Example.pdf) örnek akıştan yararlanabilirsin.
 
 
 - [ ] Huawei tarafından düzenlenecek etkinliklerin duyurularının Huawei Türkiye ekibinden iste  
