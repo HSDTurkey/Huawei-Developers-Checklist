@@ -8,7 +8,7 @@ featured: true
 ---
 
 - [ ] Konuyu belirle  
-Konu belirlemekte zorlanıyorsanız [buradan](https://trello.com/c/9uMXAGWt/20-hsd-dok%C3%BCmanlar%C4%B1) konu seçebilir ya da üyelerinizden gelen feedbacklere göre belirleyebilirsiniz. HSD Turkey sosyal medya adreslerinden geçmiş etkinliklere bakarak ilham alabilirsiniz.
+Konu belirlemekte zorlanıyorsanız [buradan](https://trello.com/c/9uMXAGWt/20-hsd-dok%C3%BCmanlar%C4%B1) konu seçebilir ya da üyelerinizden gelen feedbacklere göre belirleyebilirsiniz. HSD Türkiye sosyal medya adreslerinden geçmiş etkinliklere bakarak ilham alabilirsiniz.
 
 
 - [ ] Tarih-saat belirle  
@@ -54,7 +54,7 @@ Telegramdan ulaşabilirsiniz.
 - [ ] Onay geldikten sonra LinkedIn tasarımını, etkinlik açıklaması ile birlikte İrem Bayrak'a ilet  
 [irem.bayrak@huawei.com](mailto:irem.bayrak@huawei.com) adresinden iletebilirsiniz.
 
-- [ ] Onay geldikten sonra postlar @hsdturkey hesabını etiketleyerek paylaş  
+- [ ] Onay geldikten sonra postlar @hsdturkiye hesabını etiketleyerek paylaş  
 Postları etkinliğe minimum [1.5] hafta kala paylaşmanız gerekmektedir. Unutmayın, geç ve az yapılan tanıtımlar, etkinlik istatistiklerinizi negatif olarak etkiler.
 
 
@@ -140,4 +140,4 @@ Huawei tarafından düzenlenen yarışma, platform ve herhangi bir etkinliğin, 
 Katılımcılarınızla gelecek etkinlikler için iletişim kanallarınızı paylaşın.
 
 
-- [ ] Çekiliş hediyeleri ulaşanlardan HSD Turkey'i etiketleyerek paylaşım yapmalarını iste  
+- [ ] Çekiliş hediyeleri ulaşanlardan HSD Türkiye'yi etiketleyerek paylaşım yapmalarını iste  
