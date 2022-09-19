@@ -19,7 +19,7 @@ Konuşmacıya uygun ve kitlenizin katılımının en fazla olacağı tarih-saati
 Huawei'den bir konuşmacı talebiniz olacaksa minimum 3 hafta öncesinden bizlere ulaşmanız gerekmektedir. 
 
 
-- [ ] Çekiliş yapılacaksa İrem Bayrak ile iletişime geç  
+- [ ] Çekiliş yapılacaksa HSD Koordinatörü ile iletişime geç  
 Çekilişte verilecek ürünler etkinliğinize katılacak kişi sayısı öngörünüzle göre belirlenecektir. Bundan dolayı ortalama katılım sayısı üzerine bir tahmin belirleterek çekiliş talebinde bulunmanız gerekmektedir. Telegram üzerinden iletişime geçebilirsiniz.
 
 
@@ -47,12 +47,11 @@ Formatınız LinkedIn ve Meetup için uygun olmalıdır.
 Kendi tasarımlarınızı oluşturabilir veya [buradan](https://trello.com/1/cards/626674715ec07d7bb2c4840a/attachments/626674de54b088424a370773/download/canva-design-links.pdf) tasarım şablonlarını inceleyebilirsiniz. Afişlerin altına "Huawei ürün değişikliği yapma hakkını saklı tutar ve ürünlerin ulaşım süresi minimum 30 iş günüdür." yazısını eklemeyi unutmayın.
 
 
-- [ ] Paylaşmadan önce İrem Bayrak'dan post onayını al  
+- [ ] Paylaşmadan önce HSD Koordinatöründen post onayını al  
 Telegramdan ulaşabilirsiniz.
 
 
-- [ ] Onay geldikten sonra LinkedIn tasarımını, etkinlik açıklaması ile birlikte İrem Bayrak'a ilet  
-[irem.bayrak@huawei.com](mailto:irem.bayrak@huawei.com) adresinden iletebilirsiniz.
+- [ ] Onay geldikten sonra LinkedIn tasarımını, etkinlik açıklaması ile birlikte HSD Koordinatörü'ne ilet  
 
 - [ ] Onay geldikten sonra postlar @hsdturkiye hesabını etiketleyerek paylaş  
 Postları etkinliğe minimum [1.5] hafta kala paylaşmanız gerekmektedir. Unutmayın, geç ve az yapılan tanıtımlar, etkinlik istatistiklerinizi negatif olarak etkiler.
@@ -66,7 +65,7 @@ Postları etkinliğe minimum [1.5] hafta kala paylaşmanız gerekmektedir. Unutm
 
 
 - [ ] Huawei tarafından düzenlenecek etkinliklerin duyurularının Huawei Türkiye ekibinden iste  
-Bu duyuruları moderatör olarak sunumuna ekle. İrem Bayrak veya Doğan Burak Ziyanak'tan isteyebilirsin.
+Bu duyuruları moderatör olarak sunumuna ekle. HSD Koordinatörü veya Doğan Burak Ziyanak'tan isteyebilirsin.
 
 
 - [ ] Moderatörü belirle  
